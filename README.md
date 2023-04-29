@@ -10,4 +10,4 @@ La 1ere partie permet de calcul son rapport de transmission en entrant le nombre
 
 
 La 2eme partie du programme permet de faire une estimation de la vitesse max si on change le rapport de transmission du moyeu
-mais auss de faire une estimation du rapport de transmission qu'il faut pour obtenir une autre vitesse max
+mais aussi de faire une estimation du rapport de transmission qu'il faut pour obtenir une autre vitesse max
