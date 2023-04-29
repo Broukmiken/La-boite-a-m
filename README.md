@@ -11,3 +11,9 @@ La 1ere partie permet de calcul son rapport de transmission en entrant le nombre
 
 La 2eme partie du programme permet de faire une estimation de la vitesse max si on change le rapport de transmission du moyeu
 mais aussi de faire une estimation du rapport de transmission qu'il faut pour obtenir une autre vitesse max
+
+
+
+Rejoignez moi ici:
+https://www.forum-ciao.com/t18549-la-boite-a-z-outils-mon-programme-pour-nos-ciao
+
