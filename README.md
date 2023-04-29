@@ -15,5 +15,5 @@ mais aussi de faire une estimation du rapport de transmission qu'il faut pour ob
 
 
 Rejoignez moi ici:
-https://www.forum-ciao.com/t18549-la-boite-a-z-outils-mon-programme-pour-nos-ciao
+https://www.forum-ciao.com/
 
