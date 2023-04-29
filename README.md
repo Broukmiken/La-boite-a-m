@@ -1,6 +1,6 @@
 # La-boite-a-m
 
-Actuellement version 1.2
+Actuellement version 1.0
 
 Programme permettant de calculer différentes choses pour le moyeu du Ciao  variateur :
 
