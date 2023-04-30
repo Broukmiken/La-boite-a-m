@@ -27,6 +27,7 @@ E2= Nb de dents gros engrenage engrenage n°5
 1/((A2/B2)*(B2/D2)*(C2/E2))
 
 Plus ce chiffre est elevé, plus il y a de couple mais moins il y a de vitesse
+
 Plus ce chiffre est petit,plus il y a de vitesse de pointe mais moins il y a de couple
 
 
