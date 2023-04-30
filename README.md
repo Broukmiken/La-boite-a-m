@@ -11,15 +11,15 @@ La 1ere partie permet de calcul son rapport de transmission en entrant le nombre
 
 Le calcul est le suivant :
 
-A2= Nb de dents axe long
+A2= Nb de dents engrenage n°1
 
-B2= Nb de dents petit engrenage seul
+B2= Nb de dents petit engrenage seul engrenage n°2
 
-C2= Nb de dents double engrenage, petite couronne
+C2= Nb de dents double engrenage, petite couronne engrenage n°3
 
-D2= Nb de dents double engrenage, grande couronne
+D2= Nb de dents double engrenage, grande couronne engrenage n°4
 
-E2= Nb de dents gros engrenage
+E2= Nb de dents gros engrenage engrenage n°5
 
 
 
