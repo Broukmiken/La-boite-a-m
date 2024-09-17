@@ -1,4 +1,6 @@
 # La-boite-a-m
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/La-boite-a-m/total">
+
 
 Actuellement version 1.1
 
